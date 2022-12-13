@@ -34,7 +34,6 @@ function PaymentForm() {
     } catch (error) {
       setIsLoaded(false);
       const errors = error.response.data.errors;
-      console.log(errors);
       if (errors.payMobile) {
         showError(setMobileError, errors.payMobile);
       }

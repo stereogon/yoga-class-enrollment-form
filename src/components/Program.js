@@ -45,12 +45,10 @@ function Program({ month, paid, id, batchId }) {
         }
       );
       if (response.status === 200) {
-        console.log(response);
         setIsPaid(true);
         setCreditBoxShow(false);
       }
     } catch (error) {
-      console.log(error);
       const errors = error.response.data.errors;
       if (errors.payError) {
         showError(setPayError, errors.payError);
