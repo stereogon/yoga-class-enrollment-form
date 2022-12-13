@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yoga-class-enrollment-form/static/css/main.ee210388.css",
-    "main.js": "/yoga-class-enrollment-form/static/js/main.e01e2f24.js",
+    "main.js": "/yoga-class-enrollment-form/static/js/main.5da84d7c.js",
     "index.html": "/yoga-class-enrollment-form/index.html",
     "main.ee210388.css.map": "/yoga-class-enrollment-form/static/css/main.ee210388.css.map",
-    "main.e01e2f24.js.map": "/yoga-class-enrollment-form/static/js/main.e01e2f24.js.map"
+    "main.5da84d7c.js.map": "/yoga-class-enrollment-form/static/js/main.5da84d7c.js.map"
   },
   "entrypoints": [
     "static/css/main.ee210388.css",
-    "static/js/main.e01e2f24.js"
+    "static/js/main.5da84d7c.js"
   ]
 }
