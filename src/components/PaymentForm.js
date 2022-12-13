@@ -25,7 +25,7 @@ function PaymentForm() {
 
     try {
       const response = await axios.get(
-        `http://localhost:3001/users/get-enrolls/${mobile}`
+        `https://yoga-class-enrollment-form-server.onrender.com/users/get-enrolls/${mobile}`
       );
 
       setData(response.data.enrollments);

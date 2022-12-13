@@ -37,7 +37,7 @@ function Program({ month, paid, id, batchId }) {
   const handlePay = async (id, cardNo, cardHolder, cvv) => {
     try {
       const response = await axios.post(
-        `http://localhost:3001/users/pay-enroll/${id}`,
+        `https://yoga-class-enrollment-form-server.onrender.com/users/pay-enroll/${id}`,
         {
           cardHolder,
           cardNo,

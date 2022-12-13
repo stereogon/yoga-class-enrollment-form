@@ -90,7 +90,7 @@ function Provider({ children }) {
 
     try {
       const response = await axios.post(
-        "http://localhost:3001/users/enroll-user",
+        "https://yoga-class-enrollment-form-server.onrender.com/users/enroll-user",
         {
           firstName,
           lastName,
