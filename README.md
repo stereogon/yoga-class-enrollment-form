@@ -19,5 +19,5 @@ This is the frontend for the Yoga Class Enrollment Form. This app is Hosted at (
 10. Dropdown
 
 # Components Tree
-![Dribbble shot - 1 (2)](https://user-images.githubusercontent.com/64136587/208112519-79307843-8c9a-415d-bc3c-76ba224070c1.png)
+![Dribbble shot - 1 (2)](https://user-images.githubusercontent.com/64136587/208112955-4ca94ede-a515-48db-adc5-2991a8bcde58.png)
 
